@@ -1,15 +1,13 @@
 
-### Hi there, I'm Raju Ahmmad Hridoy [rajuahmmadhridoy][website] 👋
+## Hi there, I'm Raju Ahmmad Hridoy, [rajuahmmadhridoy][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajuahmmadhridoy.github.io/portfolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rajuahmmadhrido)
 
 ## I'm a font end developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
