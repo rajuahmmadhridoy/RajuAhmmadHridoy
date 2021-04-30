@@ -1,7 +1,7 @@
 
-### Hi there, I'm Raju Ahmmad Hridoy [rajuahmmad][website] 👋
+### Hi there, I'm Raju Ahmmad Hridoy [rajuahmmadhridoy][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajuahmmadhridoy.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rajuahmmadhrido)
 
 ## I'm a font end developer!!
@@ -65,18 +65,18 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://rajuahmmadhridoy.github.io/portfolio/
 [github]: https://github.com/rajuahmmadhridoy
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/rajuahmmadhrido
 [youtube]: https://www.youtube.com/channel/UC0h9E6WPMPXFd1P72oxWOuw
 [instagram]: https://www.instagram.com/rajuahmmadhrid0y/
 [linkedin]: https://www.linkedin.com/in/rajuahmmadhridoy-429246203/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://github.com/rajuahmmadhridoy
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
