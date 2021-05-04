@@ -1,5 +1,5 @@
 
-## Hi there, I'm Raju Ahmmad Hridoy[website] 👋
+## Hi there, I'm Raju Ahmmad Hridoy [website] 👋
 
 
 ## I'm a font end developer!!
@@ -44,7 +44,7 @@
 
 ---
 
-[website]: https://rajuahmmadhridoy.github.io/portfolio/
+[website]: https://personalportfolio-f1b10.web.app/
 [github]: https://github.com/rajuahmmadhridoy
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/rajuahmmadhrido
