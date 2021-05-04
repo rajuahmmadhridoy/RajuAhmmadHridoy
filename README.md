@@ -6,7 +6,7 @@
 
 - 💕 I am Javascript Lover ❤💕!
 - 🌱 I learn Javascript with fun 💕!
--🥅 Everyday I try to solve some problem by using javaScipt.
+- 🥅 Everyday I try to solve some problem by using javaScipt.
 
 
 
