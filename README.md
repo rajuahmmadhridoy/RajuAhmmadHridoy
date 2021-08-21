@@ -1,23 +1,22 @@
 
-### Hi there, I'm Raju Ahmmad Hridoy [website] 👋
+### Hi there 👋
 
+# I am Raju Ahmmad Hridoy
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+### MERN Stack Web Developer
+
+### Currently working with
+```diff
++  React, Typescipt, SASS (SCSS)
+```
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajuahmmadhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="rajuahmmadhridoy" /> </p>
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rajuahmmadhridoy-429246203/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rajuahmmadhrid0y) [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://ishtiak-ahmed.medium.com/)  [Portfolio](https://personalportfolio-f1b10.web.app/)
 
 - 🌱 I learn Javascript with fun 💕!
 - 🥅 Everyday I try to solve some problem by using javaScipt.
 
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rajuahmmadhridoy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -41,7 +40,16 @@
 <br />
 <br />
 
+Learning
+- [ ] NestJS
+- [ ] Redux Saga
+
+
 ---
+1. [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rajuahmmadhridoy&count_private=true&theme=tokyonight&showicons=true)]()
+2. [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuahmmadhridoy&langs_count=5&theme=tokyonight)]()
+
+
 
 [website]: https://personalportfolio-f1b10.web.app/
 [github]: https://github.com/rajuahmmadhridoy
