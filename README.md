@@ -1,10 +1,9 @@
 
-## Hi there, I'm Raju Ahmmad Hridoy [website] 👋
+### Hi there, I'm Raju Ahmmad Hridoy [website] 👋
 
 
-## I'm a font end developer!!
+## I'm a 😍😍 JavaScript Lover 😍😍!
 
-- 💕 I am Javascript Lover ❤💕!
 - 🌱 I learn Javascript with fun 💕!
 - 🥅 Everyday I try to solve some problem by using javaScipt.
 
